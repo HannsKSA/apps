@@ -24,3 +24,4 @@ servicios:
 
 ## 3. Historial de Mantenimientos e Incidencias
 - **YYYY-MM-DD:** Creación del expediente inicial.
+

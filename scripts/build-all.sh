@@ -7,3 +7,4 @@ echo "==> Megalink Monorepo: Compilando paquetes y aplicaciones..."
 npm run build --workspaces --if-present
 
 echo "==> Build finalizado exitosamente."
+
