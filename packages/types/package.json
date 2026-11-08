@@ -1,0 +1,9 @@
+{
+  "name": "@core/types",
+  "version": "0.1.0",
+  "description": "Contratos y tipos TypeScript globales del ecosistema",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "private": true
+}
+

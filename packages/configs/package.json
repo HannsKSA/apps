@@ -1,0 +1,9 @@
+{
+  "name": "@core/configs",
+  "version": "0.1.0",
+  "description": "Presets compartidos (Tailwind CSS, TypeScript, ESLint)",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "private": true
+}
+
